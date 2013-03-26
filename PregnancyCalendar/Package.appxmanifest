@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="b9c19ab2-340c-48b3-8942-20e7e483d20b" Publisher="CN=Jesse" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>PregnancyCalendar</DisplayName>
+    <PublisherDisplayName>Jesse</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="PregnancyCalendar.App">
+      <VisualElements DisplayName="PregnancyCalendar" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="PregnancyCalendar" ForegroundText="dark" BackgroundColor="#C8FFC8">
+        <DefaultTile ShowName="allLogos" ShortName="Pregnancy Calendar" />
+        <SplashScreen Image="Assets\SplashScreen.png" BackgroundColor="#C8FFC8" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JPOTTER_LAPTOP1</Machine>
+    <WindowsUser>Jesse</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>A98F2C879D66EFFF5D02187366739EA450A92079E9A7AF9878BBED3B7AEA2E5A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b9c19ab2-340c-48b3-8942-20e7e483d20b_1.0.0.0_neutral__2ysye2qyxxc1e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b9c19ab2-340c-48b3-8942-20e7e483d20b_2ysye2qyxxc1e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b9c19ab2-340c-48b3-8942-20e7e483d20b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Jesse</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-25T23:28:19.909</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\bin\Release\PregnancyCalendar.exe">
+      <PackagePath>PregnancyCalendar.exe</PackagePath>
+      <Modified>2013-03-25T23:43:28.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\bin\Release\PregnancyCalendar.pdb">
+      <PackagePath>PregnancyCalendar.pdb</PackagePath>
+      <Modified>2013-03-25T23:43:28.114</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\Helpers\bin\Release\Helpers.pdb">
+      <PackagePath>Helpers.pdb</PackagePath>
+      <Modified>2013-03-25T23:28:17.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalculator\bin\Release\PregnancyCalculator.pdb">
+      <PackagePath>PregnancyCalculator.pdb</PackagePath>
+      <Modified>2013-03-25T23:28:17.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\Save\bin\Release\Save.pdb">
+      <PackagePath>Save.pdb</PackagePath>
+      <Modified>2013-03-25T23:28:17.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\Helpers\bin\Release\Helpers.dll">
+      <PackagePath>Helpers.dll</PackagePath>
+      <Modified>2013-03-25T23:28:17.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalculator\bin\Release\PregnancyCalculator.dll">
+      <PackagePath>PregnancyCalculator.dll</PackagePath>
+      <Modified>2013-03-25T23:28:17.917</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\Save\bin\Release\Save.dll">
+      <PackagePath>Save.dll</PackagePath>
+      <Modified>2013-03-25T23:28:17.650</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T04:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-03-23T00:56:47.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\bin\Release\Common\CustomStyles.xaml">
+      <PackagePath>Common\CustomStyles.xaml</PackagePath>
+      <Modified>2013-03-23T03:18:02.541</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T00:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-03-25T14:22:21.685</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Jesse\Programs\PregnancyCalendar\PregnancyCalendar\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-25T23:28:19.743</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+E:\Jesse\Programs\PregnancyCalendar\Helpers\bin\Release\Helpers.dll
+E:\Jesse\Programs\PregnancyCalendar\Helpers\bin\Release\Helpers.pdb
+E:\Jesse\Programs\PregnancyCalendar\Helpers\bin\Release\Helpers.pri
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\Helpers.dll
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\Helpers.pdb
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\priconfig.xml.intermediate
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\layout.resfiles.intermediate
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\resources.resfiles.intermediate
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\pri.resfiles.intermediate
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\priconfig.xml
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\layout.resfiles
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\resources.resfiles
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\pri.resfiles
+E:\Jesse\Programs\PregnancyCalendar\Helpers\obj\Release\LanguageQualifiers.txt
